@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "antoniangga",
+    "password": null,
+    "database": "DB_Forum_Dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "antoniangga",
+    "password": null,
+    "database": "DB_Forum_Test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "antoniangga",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
